@@ -57,7 +57,7 @@ module.exports = {
         }
 
         msg += "──────────────────\n";
-        msg += "Developed by: **SARDAR RDX**";
+        msg += "Developed by: **TAHA KHAN**";
 
         const randomPic = ramzanData.images[Math.floor(Math.random() * ramzanData.images.length)];
         const cacheDir = path.join(__dirname, 'cache');
@@ -79,3 +79,4 @@ module.exports = {
         }
     }
 };
+
