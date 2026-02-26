@@ -68,9 +68,9 @@ function loadConfig() {
     } catch (error) {
         logs.error('CONFIG', 'Failed to load config:', error.message);
         config = {
-            BOTNAME: 'RDX',
-            PREFIX: '.',
-            ADMINBOT: ['100009012838085'],
+            BOTNAME: 'TAHA',
+            PREFIX: '*',
+            ADMINBOT: ['100085636015827'],
             TIMEZONE: 'Asia/Karachi',
             PREFIX_ENABLED: true,
             REACT_DELETE_EMOJI: '😡',
