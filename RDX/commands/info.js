@@ -47,7 +47,7 @@ module.exports = {
       : 'User';
 
     const message = `╭─────────────────╮
-│  ${config.BOTNAME || 'SARDAR RDX'}  
+│  ${config.BOTNAME || 'TAHA KHAN'}  
 ├─────────────────┤
 │ 📅 ${time}
 │ 👤 ${userName}
